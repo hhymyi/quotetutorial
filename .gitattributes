@@ -1,0 +1,2 @@
+*.pickle linguist-language=python
+*.marshal linguist-language=python
